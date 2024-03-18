@@ -2,7 +2,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #444444;
 }
 
@@ -22,7 +22,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -365,7 +365,7 @@ h6 {
 }
 
 .btn-get-started {
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -479,7 +479,7 @@ section {
 
 .section-title h2::before,
 .section-title h2::after {
-  content: '';
+  content: "";
   width: 50px;
   height: 2px;
   background: #3498db;
@@ -584,7 +584,7 @@ section {
 }
 
 .about .content .btn-learn-more {
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 600;
   font-size: 14px;
   letter-spacing: 1px;
@@ -651,7 +651,7 @@ section {
 .counts .content .count-box p {
   padding: 15px 0 0 0;
   margin: 0 0 0 50px;
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 14px;
   color: #484848;
 }
@@ -662,7 +662,7 @@ section {
   margin-top: 20px;
   color: #484848;
   font-size: 15px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   transition: ease-in-out 0.3s;
 }
 
@@ -701,7 +701,7 @@ section {
 }
 
 .services .icon-box::before {
-  content: '';
+  content: "";
   position: absolute;
   background: #e1f0fa;
   right: -60px;
@@ -1027,7 +1027,7 @@ section {
 }
 
 .portfolio .portfolio-wrap::before {
-  content: '';
+  content: "";
   background: rgba(34, 34, 34, 0.6);
   position: absolute;
   left: 0;
@@ -1264,11 +1264,11 @@ section {
 }
 
 .vehicle-size-dropdown {
-  font-size: 18px;
-  padding: 15px;
+  font-size: 15px;
+  padding: 10px;
   background-color: #ead92026;
   text-align: center;
-  border-radius: 20px; /* Adjust the radius as needed */
+  border-radius: 10px; /* Adjust the radius as needed */
   border-color: #ead92026;
   /* Additional styling here if needed */
 }
@@ -1279,7 +1279,7 @@ section {
 }
 
 .price {
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .pricing-table {
@@ -1292,7 +1292,7 @@ section {
   border-bottom: 1px solid #d3d3d3; /* Faint gray for horizontal bottom lines */
   border-left: 0; /* No vertical lines */
   border-right: 0; /* No vertical lines */
-  padding: 10px;
+  padding: 5px;
   text-align: center;
 }
 /* Remove the bottom border from the table headers */
@@ -1339,7 +1339,7 @@ section {
   line-height: 26px;
   font-weight: 500;
   margin: 0 0 10px 32px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .faq .faq-item p {
@@ -1362,7 +1362,7 @@ section {
 .contact .contact-about p {
   font-size: 14px;
   line-height: 24px;
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   color: #888;
 }
 
@@ -1438,7 +1438,7 @@ section {
 }
 
 .contact .php-email-form .loading:before {
-  content: '';
+  content: "";
   display: inline-block;
   border-radius: 50%;
   width: 24px;
@@ -1466,7 +1466,7 @@ section {
   border-color: #3498db;
 }
 
-.contact .php-email-form button[type='submit'] {
+.contact .php-email-form button[type="submit"] {
   background: #3498db;
   border: 0;
   padding: 10px 24px;
@@ -1475,7 +1475,7 @@ section {
   border-radius: 50px;
 }
 
-.contact .php-email-form button[type='submit']:hover {
+.contact .php-email-form button[type="submit"]:hover {
   background: #2383c4;
 }
 
@@ -1534,7 +1534,7 @@ section {
   display: inline-block;
   padding-right: 10px;
   color: #3c3c3c;
-  content: '/';
+  content: "/";
 }
 
 @media (max-width: 768px) {
